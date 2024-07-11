@@ -1,50 +1,54 @@
 
 export const services = [
     {
-        title: "Technology Enthusiast",
+        title: "Data Scientist",
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
-        title: "Software Engineer",
+        title: "Data Analyst",
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
-        title: "Photographer",
+        title: "Data Engineer",
         icon: 'https://csgeeek.github.io/web.png',
     },
 ];
 
-export const name = 'Nithin';
+export const name = 'Komal';
 
 export const experiences = [
     {
-        'company': 'Inncircles Technologies',
-        'role': 'Product Developer',
-        'duration': 'April 2023 - Present',
-        'logo': 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e5gz1yggdy8sc1umna3e',
+        'company': 'Orcawise',
+        'role': 'Data Scientist (Custom LLM Scientist',
+        'duration': 'May 2023 - Present',
+        'logo': '',
         'points': [
-            'Involved in dynamic contributions to web and mobile📱 development projects, actively influencing and improving project outcomes.',
-            'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
-            'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
-            'Implemented data security for the company’s product to provide role-based access control ⚙️.'
+            'Developed and fine-tuned state-of-the-art language models (T5, Google Gemma, BART).',
+            'Implemented data architectures for enhanced chatbot performance, ensuring robust data privacy measures and compliance.',
+            'Implemented Retrieval-Augmented Generation (RAG) techniques to improve contextual understanding and response generation of AI systems.'
         ],
-        'url': 'https://inncircles.com/#home',
+        'url': 'https://www.orcawise.com/',
     },
     {
-        'company': 'AT & T',
-        'role': 'Technical Intern',
-        'duration': 'Jan 2023 - March 2023',
-        'logo': 'https://www.att.com/ecms/dam/att/consumer/global/logos/att_globe_500x500.jpg',
+        'company': 'Capgemini',
+        'role': 'Senior Analyst',
+        'duration': 'Nov 2020 - August 2023',
+        'logo': 'https://1000logos.net/wp-content/uploads/2021/08/Capgemini-Logo.jpg',
         'points': [
-            'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
-            'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.'
+            'Analyst for consumer health, pharmaceuticals, and crop science websites using SQL, Google Analytics, Google Data studio, Python and PowerBI.',
+            'Extracting insights using Excel and pivot tables, and creating basic reports and dashboards.',
+            'Established and configured 500+ Google Analytics accounts, properties, and views for clients across EMEA and APAC regions.',
+            'Generated over 50 regular and ad-hoc reports monthly, providing actionable insights to stakeholders.',
+            'Collaborated with cross-functional teams to identify data-driven business solutions.',
+            'Managed Multiple projects simultaneously with tight deadlines and no escalation.',
+            'Application Manager for the smart authentication project, Successfully migrated all 3 application servers into Cloud infrastructure, reducing downtime by 30%.'
         ],
-        'url': 'https://www.att.com/',
+        'url': 'https://www.capgemini.com/',
     },
 ]
 
 
 
-export const EMAIL_JS_SERVICE_ID = 'service_90wb9t5';
-export const EMAIL_JS_TEMPLATE_ID = 'template_8l87rew';
-export const EMAIL_JS_PUBLIC_KEY = 'pHPjc9RGGkF66r86N';
+export const EMAIL_JS_SERVICE_ID = 'service_wt8o2ii';
+export const EMAIL_JS_TEMPLATE_ID = 'template_95wrh37';
+export const EMAIL_JS_PUBLIC_KEY = 'MmYJc0FcPOSiccHAB';
